@@ -12,7 +12,7 @@ I work across the development process from requirements gathering and planning t
 ### 🛠️ Tech Stack & Skills
 
 **Core Skills:**  
-WordPress • Webflow • Framer • PHP • Python • C++ • JavaScript • GSAP • React • HTML • CSS • Tailwind
+WordPress • Webflow • Framer • PHP • Python • JavaScript (ES6+) • TypeScript • GSAP • React • HTML • CSS • Tailwind
 
 ---
 
