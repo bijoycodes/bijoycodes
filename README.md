@@ -54,7 +54,7 @@ WordPress • Webflow • Framer • PHP • Python • JavaScript (ES6+) • Ty
 
 ### ☕ Connect With Me
 
-<a href="https://facebook.com/bijoyhassan23"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a><a href="https://wa.me/+8801995581952"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><a href="https://www.linkedin.com/in/bijoyhassan23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:bijoyhassan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="tel:+8801995581952"><img src="https://img.shields.io/badge/Call_Me-0077B5?style=for-the-badge&logo=google-phone&logoColor=white" /></a>
+<a href="https://facebook.com/bijoycodes"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a><a href="https://wa.me/+8801995581952"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><a href="https://www.linkedin.com/in/bijoycodes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:bijoycodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="tel:+8801995581952"><img src="https://img.shields.io/badge/Call_Me-0077B5?style=for-the-badge&logo=google-phone&logoColor=white" /></a>
 
 ---
 
@@ -62,7 +62,7 @@ WordPress • Webflow • Framer • PHP • Python • JavaScript (ES6+) • Ty
 
 - ❤️ Love coding & learning new tech  
 - 💻 Most used line of code: `console.log("hello world")`  
-- 📧 Email: **bijoyhassan23@gmail.com**  
+- 📧 Email: **bijoycodes@gmail.com**  
 - 📝 Portfolio: **https://bijoydev.vercel.app**
 
 ---
